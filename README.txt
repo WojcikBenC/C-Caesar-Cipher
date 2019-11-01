@@ -1,0 +1,1 @@
+Prompts for a plain text input file to apply a caesar cipher to, a path to an output file, and writes the result to the specified output.
